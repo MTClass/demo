@@ -6,4 +6,4 @@ resources:
 ...
 
 
-<http://jsfiddle.net/gh/get/library/pure/MTClass/manisha/tree/master>
+<http://jsfiddle.net/gh/get/library/pure/MTClass/manisha/tree/master/>
