@@ -1,7 +1,7 @@
 
 window.onload = ready;
 
-function ready () {
+function ready() {
     
 var data = d3.range(1000).map(d3.randomBates(10));
 
